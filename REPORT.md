@@ -58,11 +58,11 @@ Output :
 ```
 ### Berikut adalah Penjelasan Output:
 
-18: Umur dalam tahun
+19: Umur dalam tahun
 
-223: Umur dalam bulan
+238: Umur dalam bulan
 
-Rabu: Hari dalam seminggu untuk tanggal 26 Juli 2006.
+Rabu: Hari dalam seminggu untuk tanggal 17 Mei 2006.
 
 ## Kesimpulan
 Program ini berhasil mengimplementasikan perhitungan umur dalam tahun dan bulan, serta menentukan hari dalam seminggu untuk tanggal tertentu.
